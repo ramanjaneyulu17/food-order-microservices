@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0aad2634-1c82-4eba-b5e1-c312a1c8ff20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../food-service/src/main/java/com/foodorder/food_service/controller/FoodControler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-service/src/main/java/com/foodorder/food_service/model/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food-service/src/main/java/com/foodorder/food_service/repository/FoodRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/foodorder/order_service/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/foodorder/order_service/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/foodorder/order_service/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/foodorder/order_service/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/java/com/foodorder/api_gateway/ApiGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/foodorder/api_gateway/ApiGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/foodorder/order_service/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/foodorder/order_service/OrderServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../payment-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../payment-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../payment-service/src/main/java/com/foodorder/payment_service/PaymentServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../payment-service/src/main/java/com/foodorder/payment_service/PaymentServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../payment-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../payment-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodorder/product_service/ProductServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/foodorder/product_service/ProductServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/src/main/java/com/foodorder/service_registry/ServiceRegistryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../service-registry/src/main/java/com/foodorder/service_registry/ServiceRegistryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service-registry/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../service-registry/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2sz7YhEqgogrZiIeQ8kK2XTc1Y9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FoodServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/raman/OneDrive/Desktop/projects/food-order-ms/product-service&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0aad2634-1c82-4eba-b5e1-c312a1c8ff20" name="Changes" comment="" />
+      <created>1739446599904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739446599904</updated>
+    </task>
+    <servers />
+  </component>
+</project>
